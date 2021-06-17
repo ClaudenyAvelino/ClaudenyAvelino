@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil! :computer:
+## Bem-vindo ao meu perfil! :computer:
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
