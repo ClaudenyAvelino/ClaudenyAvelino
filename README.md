@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil! :computer:
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 
-###🛠  <b>Tech Stack</b> <br>
+### 🛠  <b>Tech Stack</b> <br>
 
 <img src= https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974></img>
 <img src= https://camo.githubusercontent.com/663f114c3791808eca13e94f879cdc0536eab68782b815e10070e8f984fc51f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936></img>
