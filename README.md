@@ -20,3 +20,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 </svg>
 
 
+
+
+https://wac-cdn.atlassian.com/assets/img/icons/social-icons/facebook-badge.svg
