@@ -1,5 +1,5 @@
 # Bem-vindo ao meu perfil! :computer:
-##Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
+## Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 
 ### 🛠  <b>Tech Stack</b> <br>
 
