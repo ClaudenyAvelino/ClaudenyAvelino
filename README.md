@@ -11,3 +11,8 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src= https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236></img>
 
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
+
+
+####C#
+
+![GitHub top language](https://img.shields.io/github/languages/top/ClaudenyAvelino/ClaudenyAvelino?style=for-the-badge)
