@@ -15,4 +15,4 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 ####C#
 
-![GitHub top language](https://img.shields.io/github/languages/top/ClaudenyAvelino/ClaudenyAvelino?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/ClaudenyAvelino/ClaudenyAvelino?color=AAA&label=C%23&logo=AAA&logoColor=AAA&style=for-the-badge)
