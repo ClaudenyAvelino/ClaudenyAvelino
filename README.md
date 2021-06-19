@@ -16,5 +16,8 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 ####C#
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ClaudenyAvelino/ClaudenyAvelino)
-
+<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-csharp-plain-wordmark colored"></i>
