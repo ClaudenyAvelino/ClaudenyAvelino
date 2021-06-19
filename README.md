@@ -12,12 +12,3 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
 
-
-####C#
-
-![GitHub top language](https://img.shields.io/github/languages/top/ClaudenyAvelino/ClaudenyAvelino)
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-csharp-plain-wordmark colored"></i>
