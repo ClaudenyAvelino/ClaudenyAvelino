@@ -54,3 +54,5 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="src/programming-languages.png" alt="Some programming languages logos">
 
 This project include high resolution `.png` with transparent backgrounds programming languages logos with different dimensions and also a vector `.svg` version of them.
+
+A complete list of the logos can be found int the [`src/`](https://github.com/abranhe/programming-languages-logos/blob/master/src) directory or in the [`src/languages.json`](https://github.com/abranhe/programming-languages-logos/blob/master/src/languages.json) file.
