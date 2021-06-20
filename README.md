@@ -37,3 +37,20 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
     <br>
     <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/abranhe/programming-languages-logos/actions"><img src="https://github.com/abranhe/programming-languages-logos/workflows/publish/badge.svg" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/npm/v/programming-languages-logos.svg?logo=npm" /></a>
+	<a href="https://github.com/abranhe/programming-languages-logos/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/programming-languages-logos.svg" /></a>
+    <a href="https://github.com/abranhe/programming-languages-logos"><img src="https://img.shields.io/github/repo-size/abranhe/programming-languages-logos.svg?logo=github"></a>
+    <br>
+    <br>
+    <b><a href="https://github.com/abranhe/react-pll">Using React?</a></b>
+    <br>
+</p>
+
+**Programming languages** are the way we developers talk with the machine, but what happens when we want to talk about them? Probably in a blog post, in a Medium story, in a presentation, or 🤔 well something else ..., **the thing** is that we want to include them in our life and the best way to do it is with a logo.
+
+<img src="src/programming-languages.png" alt="Some programming languages logos">
+
+This project include high resolution `.png` with transparent backgrounds programming languages logos with different dimensions and also a vector `.svg` version of them.
