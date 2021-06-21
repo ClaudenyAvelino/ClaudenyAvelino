@@ -12,4 +12,4 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 ###1
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_146578.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
