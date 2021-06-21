@@ -10,3 +10,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 <img src= https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif></img>
 
+###1
+
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
