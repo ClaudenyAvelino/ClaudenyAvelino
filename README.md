@@ -1,6 +1,6 @@
 #### Bem-vindo ao meu perfil! :computer:
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
-## 🛠 My Skills
+## 🛠 Minhas habilidades
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
