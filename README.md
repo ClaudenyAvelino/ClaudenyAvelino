@@ -14,7 +14,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 ### Hey there 👋
 
-**I'm Rodrigo Gonçalves Santana 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
+**I'm Claudeny Nivaldo Avelino 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
 
 :computer: Web front-end development with **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
@@ -61,4 +61,4 @@ But, I also used it in projects:
 <img src="https://code-maven.com/img/python.png" height="35px" />   
 </p>
 
-:mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
+:mortar_board: Sou graduado licenciatura em Informática e estudante de sistemas de informação no instituto federal de sergipe
