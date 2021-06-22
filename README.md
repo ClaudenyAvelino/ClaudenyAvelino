@@ -2,10 +2,14 @@
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 - :mortar_board: graduado licenciatura em Informática e estudante de sistemas de informação no instituto federal de sergipe
 ## 🛠 Minhas habilidades
-<p>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<p>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35px" />    
+&nbsp;  
+<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
 &nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />   
+&nbsp;
+<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
@@ -13,6 +17,20 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+</p>
+🛠 Estudando
+<p>
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
@@ -26,18 +44,14 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
-&nbsp;  
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp;  
-<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
-&nbsp;
-<img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />   
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35px" /> 
 &nbsp;
-<img src= https://camo.githubusercontent.com/663f114c3791808eca13e94f879cdc0536eab68782b815e10070e8f984fc51f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35px" /> 
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35px" />
 </p>
 
 
