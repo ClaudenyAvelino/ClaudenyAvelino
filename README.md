@@ -3,13 +3,19 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 - :mortar_board: graduado licenciatura em Informática e estudante de sistemas de informação no instituto federal de sergipe
 ## 🛠 Minhas habilidades
 <p>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35px" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35px" />   
+ &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35px" />  
 &nbsp;  
 <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
 &nbsp;
-<img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />  
+<img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" /> 
+ &nbsp; 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToorQQ_89Xr-HfATVDtx7yPXTJ3yO2LkU2LJLwHe3yhZUh5tsQIewGsGjXTUdVdVhaWwY&usqp=CAU" height="35px" /> 
 &nbsp;
-<img src="https://w7.pngwing.com/pngs/960/766/png-transparent-adobe-lightroom-computer-software-computer-icons-apple-text-rectangle-photography.png" height="35px" /> 
+<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" height="35px" />    
+&nbsp;
+<img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png" height="35px" />   
 &nbsp;
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
 &nbsp;
