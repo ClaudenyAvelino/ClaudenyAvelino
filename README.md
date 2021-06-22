@@ -12,7 +12,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 
 ###1
 
-### Hey there 👋
+### Ei 👋
 
 **Eu sou Claudeny Nivaldo Avelino 👨‍🚀**. Sou desenvolvedor de sites, aplicativos móveis e APIs. Atualmente, minha pilha é: 
 
