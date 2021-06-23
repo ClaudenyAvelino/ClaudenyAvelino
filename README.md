@@ -1,7 +1,7 @@
 #### Bem-vindo ao meu perfil! :computer:
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 - :mortar_board: graduado licenciatura em Informática e estudante de sistemas de informação no instituto federal de sergipe
-## 🛠 Minhas habilidades
+## 🛠  Minhas habilidades
 <p>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35px" />   
  &nbsp; 
