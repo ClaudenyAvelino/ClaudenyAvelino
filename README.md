@@ -56,6 +56,8 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
+ &nbsp;
+<img src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="35px" /> 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35px" /> 
 &nbsp;
