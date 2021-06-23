@@ -31,6 +31,10 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
@@ -57,7 +61,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
  &nbsp;
-<img src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="35px" /> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="35px" /> 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35px" /> 
 &nbsp;
