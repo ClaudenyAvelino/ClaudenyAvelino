@@ -47,6 +47,10 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 </p>
 🛠 Estudando
 <p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35px"/>  
+ &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png" height="35px"/>
+ &nbsp;
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
