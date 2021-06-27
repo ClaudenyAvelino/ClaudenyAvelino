@@ -30,20 +30,32 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 </p>
+</br>
 🛠 Estudando
 <p>
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img> 
+&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+ &nbsp;
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
+ &nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
+&nbsp;
+</p>
+🛠 Participações em projetos
+<p>
+</br>
+&nbsp;
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
-&nbsp;
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
@@ -54,8 +66,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
  &nbsp;
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
-&nbsp;
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
 &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
@@ -64,8 +74,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
- &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="35px" /> 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35px" /> 
