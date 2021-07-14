@@ -36,9 +36,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 </p>
-<p>
- ## 
- </p>
 </br>
 🛠 Estudando
 <p>
