@@ -7,7 +7,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
  * Cinegrafista
  * Designer
  * Full Stack Developer 
- * ## 
+## 
 <p>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="35px" />   
  &nbsp; 
