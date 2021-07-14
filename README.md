@@ -2,7 +2,7 @@
 Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 - :mortar_board: graduado licenciatura em Informática e estudante de bacharelado em sistemas de informação no instituto federal de sergipe
 ## 🛠  Minhas habilidades
-<p>
+### <p>
  * Fotografo
  * Cinegrafista
  * Designer
