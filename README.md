@@ -35,6 +35,8 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <p>
 &nbsp;
 &nbsp;
+ <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img> 
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img> 
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
