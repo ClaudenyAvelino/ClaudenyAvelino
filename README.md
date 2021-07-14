@@ -31,13 +31,13 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
-## 
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
 </p>
+## 
+&nbsp;
 </br>
 🛠 Estudando
 <p>
