@@ -37,7 +37,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 </p>
 ## 
-&nbsp;
 </br>
 🛠 Estudando
 <p>
