@@ -14,7 +14,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;  
 <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="35px"/>    
 &nbsp;
-<img src="" /> 
+<img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_illustrator.svg" height="35px /> 
  &nbsp; 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToorQQ_89Xr-HfATVDtx7yPXTJ3yO2LkU2LJLwHe3yhZUh5tsQIewGsGjXTUdVdVhaWwY&usqp=CAU" height="35px" /> 
 &nbsp;
