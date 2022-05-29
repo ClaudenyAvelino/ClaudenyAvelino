@@ -12,7 +12,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
  &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35px" />  
 &nbsp;  
-<img src="[[https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelpx.adobe.com%2Fpt%2Fsupport.html&psig=AOvVaw31zxLID5vSmuXZ-0pnBgUj&ust=1653918432163000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjskbrshPgCFQAAAAAdAAAAABAD)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAdobe_Photoshop_Mobile_icon.svg&psig=AOvVaw0nR4SiyjZv-tRw7EA_PFEx&ust=1653918534468000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNC_iOnshPgCFQAAAAAdAAAAABAD) />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35px" />    
 &nbsp;
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" /> 
  &nbsp; 
