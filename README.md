@@ -12,7 +12,7 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
  &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35px" />  
 &nbsp;  
-<img src="" />    
+<img src="https://cdnlogo.com/logo/adobe-photoshop-cc_34391.html"><img src="https://cdn.cdnlogo.com/logos/a/44/adobe-photoshop-cc.svg"" />    
 &nbsp;
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" /> 
  &nbsp; 
