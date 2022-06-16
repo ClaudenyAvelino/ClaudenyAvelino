@@ -45,11 +45,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 &nbsp;
 </p>
 &nbsp;
-</p>
-</br>
-🛠 Estudando
-<p>
-
 🛠 Participações em projetos
 <p>
 </br>
