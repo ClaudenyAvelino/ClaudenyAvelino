@@ -21,7 +21,6 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
 <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png" height="35px" />   
 &nbsp;                                                                                                                                  
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp;
 </p>
 <p>                                                                                             
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
