@@ -35,10 +35,15 @@ Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer no
  &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" width="40" height="40" style="max-width:100%;"></img>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35px"/>  
+ &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img> 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
  &nbsp;
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
  &nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
