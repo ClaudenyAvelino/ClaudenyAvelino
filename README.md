@@ -1,5 +1,5 @@
 #### Bem-vindo ao meu perfil! :computer:
-Sou Claudeny, um desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
+Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre procurando conhecer novas tecnologias.
 - :mortar_board: Graduado licenciatura em Informática e estudante de bacharelado em sistemas de informação no instituto federal de sergipe
 ## 🛠  Minhas habilidades
 
