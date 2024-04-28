@@ -15,7 +15,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,js,dotnet,cs,java,spring,nodejs,sqlite,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,js,dotnet,cs,java,spring,nodejs,mysql,sqlite,docker" />
   </a>                      
 </p>
 &nbsp;
