@@ -24,7 +24,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 &nbsp;
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,azure,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=github,arduino,raspberrypi,tensorflow,azure,aws,gcp" />
   </a>                      
 </p>
 &nbsp;
