@@ -13,18 +13,39 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
     <img src="https://skillicons.dev/icons?i=ps,pr,ae,xd,ai,figma" />
   </a>                      
 </p>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,js,react,py,dotnet,cpp,cs,java,spring,nodejs,mysql,postgres,sqlite,docker" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,react" />
   </a>                      
 </p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,dotnet,cpp,cs,java,spring,nodejs,docker" />
+  </a>                      
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  </a>                      
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+  </a>                      
+</p>
+
+
 &nbsp;
 🛠 Participações em projetos
 <br>
 &nbsp;
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,arduino,raspberrypi,tensorflow,azure,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=github,arduino,raspberrypi,tensorflow" />
   </a>                      
 </p>
 &nbsp;
