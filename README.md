@@ -22,7 +22,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,dotnet,cpp,cs,java,spring,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=js,py,dotnet,arduino,cpp,cs,java,spring,nodejs,docker" />
   </a>                      
 </p>
 
@@ -45,7 +45,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 &nbsp;
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,arduino,raspberrypi,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=github,raspberrypi,tensorflow" />
   </a>                      
 </p>
 &nbsp;
