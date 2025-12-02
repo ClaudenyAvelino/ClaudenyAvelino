@@ -3,10 +3,8 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 - :mortar_board: Graduado licenciatura em Informática e estudante de bacharelado em sistemas de informação no instituto federal de sergipe
 ## 🛠  Minhas habilidades
 
- * Fotografo
- * Cinegrafista
- * Designer
- * Full Stack Developer / Technology Educador.
+ * Technology Educador
+ * Full Stack Developer.
 &nbsp;
 <p align="left">
   <a href="https://skillicons.dev">
