@@ -30,7 +30,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://www.youtube.com/watch?v=lODJ14js4P8" target="_blank">
+    <a href="https://www.instagram.com/p/CkGTBzBgiSe/?hl=pt-br" target="_blank">
       <img src="https://skillicons.dev/icons?i=ae"><br>
       <sub>Link para o projeto</sub>
     </a>
@@ -48,7 +48,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://github.com/seuusuario/projeto-illustrator" target="_blank">
+    <a href="https://www.instagram.com/p/CkfxADTN8Y2/?hl=pt-br&img_index=1" target="_blank">
       <img src="https://skillicons.dev/icons?i=ai"><br>
       <sub>Illustrator</sub>
     </a>
