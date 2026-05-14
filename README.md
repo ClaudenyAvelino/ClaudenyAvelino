@@ -6,11 +6,65 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
  * Technology Educador
  * Full Stack Developer.
 &nbsp;
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,xd,ai,figma" />
-  </a>                      
-</p>
+* Full Stack Developer.
+
+<table align="center">
+  <tr>
+
+  <td align="center" >
+    <a href="https://github.com/seuusuario/projeto-photoshop" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ps"><br>
+      <sub>Link para o projeto</sub>
+    </a>
+  </td>
+
+  <td width="25"></td>
+
+  <td align="center">
+    <a href="https://github.com/seuusuario/projeto-premiere" target="_blank">
+      <img src="https://skillicons.dev/icons?i=pr"><br>
+      <sub>Premiere</sub>
+    </a>
+  </td>
+
+  <td width="25"></td>
+
+  <td align="center">
+    <a href="https://github.com/seuusuario/projeto-after-effects" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ae"><br>
+      <sub>After Effects</sub>
+    </a>
+  </td>
+
+  <td width="25"></td>
+
+  <td align="center">
+    <a href="https://github.com/seuusuario/projeto-xd" target="_blank">
+      <img src="https://skillicons.dev/icons?i=xd"><br>
+      <sub>Adobe XD</sub>
+    </a>
+  </td>
+
+  <td width="25"></td>
+
+  <td align="center">
+    <a href="https://github.com/seuusuario/projeto-illustrator" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ai"><br>
+      <sub>Illustrator</sub>
+    </a>
+  </td>
+
+  <td width="25"></td>
+
+  <td align="center">
+    <a href="https://github.com/ClaudenyAvelino/portfolioTec" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma"><br>
+      <sub>Link para o projeto</sub>
+    </a>
+  </td>
+
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://skillicons.dev">
