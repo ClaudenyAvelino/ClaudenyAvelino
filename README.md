@@ -23,7 +23,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td align="center">
     <a href="https://www.youtube.com/watch?v=_E05hqcW5e8&t=2234s" target="_blank">
       <img src="https://skillicons.dev/icons?i=pr"><br>
-      <sub>Premiere</sub>
+      <sub>Link para o projeto</sub>
     </a>
   </td>
 
@@ -32,7 +32,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td align="center">
     <a href="https://www.youtube.com/watch?v=lODJ14js4P8" target="_blank">
       <img src="https://skillicons.dev/icons?i=ae"><br>
-      <sub>After Effects</sub>
+      <sub>Link para o projeto</sub>
     </a>
   </td>
 
