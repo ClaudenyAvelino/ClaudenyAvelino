@@ -57,7 +57,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://github.com/ClaudenyAvelino/portfolioTec" target="_blank">
+    <a href="https://claudenyavelino.github.io/portfolioTec/" target="_blank">
       <img src="https://skillicons.dev/icons?i=figma"><br>
       <sub>Link para o projeto</sub>
     </a>
