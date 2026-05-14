@@ -5,8 +5,8 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
 
  * Technology Educador
  * Full Stack Developer.
-&nbsp;
 * Full Stack Developer.
+*  UX/UI Designer
 
 <table align="center">
   <tr>
