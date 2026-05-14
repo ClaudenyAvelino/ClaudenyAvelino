@@ -12,7 +12,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <tr>
 
   <td align="center" >
-    <a href="https://www.youtube.com/watch?v=i-4J6oEIYGE" target="_blank">
+    <a href="https://www.instagram.com/p/CkyfaEZtwI7/?hl=pt-br&img_index=5" target="_blank">
       <img src="https://skillicons.dev/icons?i=ps"><br>
       <sub>Link para o projeto</sub>
     </a>
