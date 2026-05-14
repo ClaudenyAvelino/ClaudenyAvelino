@@ -12,7 +12,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <tr>
 
   <td align="center" >
-    <a href="https://github.com/seuusuario/projeto-photoshop" target="_blank">
+    <a href="https://www.youtube.com/watch?v=i-4J6oEIYGE" target="_blank">
       <img src="https://skillicons.dev/icons?i=ps"><br>
       <sub>Link para o projeto</sub>
     </a>
@@ -21,7 +21,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://github.com/seuusuario/projeto-premiere" target="_blank">
+    <a href="https://www.youtube.com/watch?v=_E05hqcW5e8&t=2234s" target="_blank">
       <img src="https://skillicons.dev/icons?i=pr"><br>
       <sub>Premiere</sub>
     </a>
@@ -30,7 +30,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://github.com/seuusuario/projeto-after-effects" target="_blank">
+    <a href="https://www.youtube.com/watch?v=lODJ14js4P8" target="_blank">
       <img src="https://skillicons.dev/icons?i=ae"><br>
       <sub>After Effects</sub>
     </a>
