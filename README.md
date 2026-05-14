@@ -21,7 +21,7 @@ Sou Claudeny, um Technology Educador e desenvolvedor fullstack que está sempre 
   <td width="25"></td>
 
   <td align="center">
-    <a href="https://www.youtube.com/watch?v=_E05hqcW5e8&t=2234s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=inZepS-wwI0&t=4s" target="_blank">
       <img src="https://skillicons.dev/icons?i=pr"><br>
       <sub>Link para o projeto</sub>
     </a>
